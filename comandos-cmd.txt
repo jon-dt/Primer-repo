@@ -1,0 +1,4 @@
+Crear un archivo desde CMD 
+    type nul > nombre_archivo.ext
+Crear un directorio
+    mkdir nombre_directorio
