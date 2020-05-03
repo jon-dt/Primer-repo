@@ -1,0 +1,3 @@
+#Omite todos los archivos con las siguientes extensiones
+*.txt   
+*.xml
